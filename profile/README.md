@@ -1,14 +1,3 @@
-Team Parakeet-RS 的项目集。
+因为一些原因，不再开放仓库访问。
 
-快速跳转：
-
-- 百科: [docs] ([repo][docs_repo])
-- 小鹦鹉解密桌面端: (C++) [parakeet-wx] ([repo][pwc-repo])
-- 小鹦鹉加解密操作库: (Rust) [parakeet-crypto-rs] (C++) [libparakeet]
-
-[docs]: https://docs.parakeet.jixun.dev/
-[docs_repo]: https://github.com/parakeet-rs/docs
-[parakeet-crypto-rs]: https://github.com/parakeet-rs/parakeet-crypto-rs
-[libparakeet]: https://github.com/parakeet-rs/libparakeet
-[parakeet-wx]: https://github.com/parakeet-rs/parakeet-wx/releases/latest#:~:text=Assets
-[pwc-repo]: https://github.com/parakeet-rs/parakeet-wx
+最后提交版本可以[在此找到](https://github.com/parakeet-rs/.github/releases)。
